@@ -1,0 +1,213 @@
+*{
+            margin-left:2px;
+            margin-top: 5pxpx;
+        }
+        .subscribe{
+            background-color: rgb(243, 18, 18);
+            color: white;
+            border:0px;
+            padding: 10px 16px;
+            font-size:10px;
+            border-radius: 1px;
+            transition: opacity 1s;
+            cursor: pointer;
+            margin-right: 5px;
+            vertical-align: top;
+        }
+        .subscribe:hover{
+           
+            opacity: 0.6;
+        }
+        .join{
+            color: blue;
+            background-color: white;
+            padding: 10px 16px;
+            font-size: 9px;
+            border: solid blue;
+            border-radius: 1px;
+            border-width: 0.1px;
+            transition: background-color 1s,color 1s;
+            margin-right: 5px;
+        }
+        .join:hover{
+            background-color: blue;
+            color: white;
+            cursor: pointer;
+        }
+        .tweet{
+            color:white ;
+            background-color: rgb(19, 149, 248);
+            padding: 10px 16px;
+            font-size: 10px;
+            border: 0px;
+            border-radius: 18px;
+            font-weight: bold;
+            transition: 0.3s;
+            vertical-align: top;
+        }
+        .tweet:hover{
+            cursor: pointer;
+            box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+        }
+        .rq{
+            background-color: black;
+            color: white;
+            border-radius: 0.5px;
+            border: 0px black;
+            padding: 10px 16px;
+            font-size:10px;
+            transition: 0.3s;
+        }
+        .rq:hover{
+            cursor: pointer;
+            opacity: 0.7;
+        }
+        .az{
+            background-color: rgb(255,216,20);
+            border-radius: 18px;
+            border: 0px black;
+            padding: 10px 16px;
+            font-size:10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .az:hover{
+            cursor: pointer;
+            background-color: #feb20ecf;
+        }
+        .az:active{
+            opacity: 0.7;
+        }
+        .git{
+            background-color: rgb(50,164,79);
+            color: white;
+            border-radius: 2px;
+            border: 0px black;
+            padding: 10px 16px;
+            font-size:10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .git:hover{
+            cursor: pointer;
+            box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.15);
+        }
+        .bt{
+            background-color: rgb(121,82,179);
+            color: white;
+            border-radius: 2px;
+            border: 0px black;
+            padding: 10px 16px;
+            font-size:10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .bt:hover{
+            cursor: pointer;
+            background-color: rgb(99, 72, 139);
+        }
+        .btp{
+            background-color: rgb(244, 242, 246);
+            color: rgb(137, 129, 129);
+            border-radius: 2px;
+            border: 1px solid rgb(137, 129, 129);
+            padding: 10px 16px;
+            font-size:10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .btp:hover{
+            cursor: pointer;
+            background-color: rgb(137, 129, 129);
+            color: white;
+        }
+        .link{
+            background-color: rgb(10,102,194);
+            color: white;
+            padding: 10px 16px;
+            font-size:10px;
+            border: 0px ;
+            border-radius: 18px;
+            font-weight: bold;
+            transition:0.3s;
+        }
+        .link:hover{
+            cursor: pointer;
+            background-color: rgb(9, 79, 148);
+        }
+        .linked{
+            background-color: white;
+            color: rgb(10,102,194);
+            padding: 10px 16px;
+            font-size:10px;
+            border: 1px solid rgb(10,102,194);
+            border-radius: 18px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .linked:hover{
+            cursor: pointer;
+            background-color:rgb(207, 224, 243) ;
+        }
+        .buy{
+            background-color: #feb20e;
+            border-radius: 18px;
+            border: 0px black;
+            padding: 10px 16px;
+            font-size:10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .buy:hover{
+            cursor: pointer;
+            background-color:#e49e09 ;
+        }
+        .buy:active{
+            opacity: 0.6;
+        }
+        a:hover{
+            color: red;
+        }
+        #ac{
+            margin: 3px;
+        }
+        #pg{
+            padding: 8px 5px;
+            cursor: pointer;
+        }
+        .stretch{
+            background-color: rgb(25, 142, 25);
+            color: white;
+            border: none;
+            padding: 8px 14px;
+            transition: 1s;
+        }
+        .stretch:hover{
+            padding: 12px 20px;
+            font-size: 30px;
+            cursor: pointer;
+        }
+        .shadow{
+            background-color: rgb(25, 142, 25);
+            color: white;
+            border: none;
+            padding: 8px 14px;
+            transition: 0.1s;
+            box-shadow: 3px 3px 3px grey;
+            cursor: pointer;
+        }
+        .shadow:active{
+            box-shadow: 0px 0px 0px;
+        }
+        .num{
+            background-color: rgb(25, 142, 25);
+            color: white;
+            border: none;
+            padding: 8px 14px;
+            transition: 0.5s;
+            cursor: pointer;
+            margin:3px;
+        }
+        .num:hover{
+            padding: 8px 18px;
+        }
